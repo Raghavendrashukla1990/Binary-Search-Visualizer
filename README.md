@@ -1,8 +1,7 @@
 # 🔍 Binary Search Visualizer
 
 An **interactive web-based visualization tool** that demonstrates how the **Binary Search algorithm** works — step by step.  
-Built using **HTML**, **CSS**, and **JavaScript**, this project helps learners *see* how Binary Search efficiently finds an element in a sorted array.
-
+Built using **HTML**, **CSS**, and **JavaScript**
 ---
 
 ## 🚀 Features
@@ -42,11 +41,3 @@ Instead of checking every element one by one, it cuts the array in half each tim
 - **HTML5** – Page structure  
 - **CSS3** – Styling, layout, transitions  
 - **JavaScript (ES6)** – Algorithm logic & animations  
-
----
-
-## ⚙️ How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/binary-search-visualizer.git
